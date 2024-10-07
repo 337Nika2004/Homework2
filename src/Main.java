@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Значение переменной d с типом long равно " + d);
         System.out.println("Значение переменной e с типом float равно " + e);
         System.out.println("Значение переменной f с типом double равно " + f);
-        // Задача 1
+        // Задача 2
+
     }
 }
