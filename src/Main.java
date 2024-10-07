@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // Задача 1
         // В программе IDEA в новом созданном вами проекте присвойте:
         //переменной dog значение 8.0;//переменной cat значение 3.6;
